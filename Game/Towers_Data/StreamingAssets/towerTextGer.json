@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "key": "game_title",
+            "value": "Turm Verteidigen"
+        },
+        {
+            "key": "play_button",
+            "value": "ABSPIELEN"
+        },
+        {
+            "key": "option_button",
+            "value": "MÖGLICHKEIT"
+        },
+        {
+            "key": "quit_button",
+            "value": "VERLASSEN"
+        },
+        {
+            "key": "sound_button",
+            "value": "KLANG"
+        },
+        {
+            "key": "language_button",
+            "value": "SPRACHE"
+        },
+        {
+            "key": "back_button",
+            "value": "ZURÜCK"
+        },
+        {
+            "key": "game_over",
+            "value": "SPIEL IST AUS"
+        },
+        {
+            "key": "retry_button",
+            "value": "Wiederholen"
+        },
+        {
+            "key": "menu_button",
+            "value": "Speisekarte"
+        },
+        {
+            "key": "you_win",
+            "value": "DU GEWINNST"
+        },
+        {
+            "key": "Round_survival",
+            "value": "Rundes Überleben"
+        },
+        {
+            "key": "continue_button",
+            "value": "Fortsetzen"
+        },
+        {
+            "key": "select_level",
+            "value": "STUFE AUSWÄHLEN"
+        },
+        {
+            "key": "upgrade_click",
+            "value": "AKTUALISIERUNG"
+        },
+        {
+            "key": "sell_click",
+            "value": "VERKAUFEN"
+        }
+    ]
+}

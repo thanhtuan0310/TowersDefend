@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "key": "game_title",
+            "value": "Tower Defend"
+        },
+        {
+            "key": "play_button",
+            "value": "PLAY"
+        },
+        {
+            "key": "option_button",
+            "value": "OPTION"
+        },
+        {
+            "key": "quit_button",
+            "value": "QUIT"
+        },
+        {
+            "key": "sound_button",
+            "value": "SOUND"
+        },
+        {
+            "key": "language_button",
+            "value": "LANGUAGE"
+        },
+        {
+            "key": "back_button",
+            "value": "BACK"
+        },
+        {
+            "key": "game_over",
+            "value": "GAMEOVER"
+        },
+        {
+            "key": "retry_button",
+            "value": "Retry"
+        },
+        {
+            "key": "menu_button",
+            "value": "Menu"
+        },
+        {
+            "key": "you_win",
+            "value": "YOU WIN"
+        },
+        {
+            "key": "Round_survival",
+            "value": "Round Survival"
+        },
+        {
+            "key": "continue_button",
+            "value": "Continue"
+        },
+        {
+            "key": "select_level",
+            "value": "SELECT LEVEL"
+        },
+        {
+            "key": "upgrade_click",
+            "value": "UPGRADE"
+        },
+        {
+            "key": "sell_click",
+            "value": "SELL"
+        }
+    ]
+}

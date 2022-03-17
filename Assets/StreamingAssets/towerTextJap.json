@@ -1,0 +1,68 @@
+﻿{
+    "items": [
+        {
+            "key": "game_title",
+            "value": "タワーディフェンド"
+        },
+        {
+            "key": "play_button",
+            "value": "プレー"
+        },
+        {
+            "key": "option_button",
+            "value": "オプション"
+        },
+        {
+            "key": "quit_button",
+            "value": "終了する"
+        },
+        {
+            "key": "sound_button",
+            "value": "音"
+        },
+        {
+            "key": "language_button",
+            "value": "言語"
+        },
+        {
+            "key": "back_button",
+            "value": "バック"
+        },
+        {
+            "key": "game_over",
+            "value": "ゲームオーバー"
+        },
+        {
+            "key": "retry_button",
+            "value": "リトライ"
+        },
+        {
+            "key": "menu_button",
+            "value": "メニュー"
+        },
+        {
+            "key": "you_win",
+            "value": "あなたが勝つ"
+        },
+        {
+            "key": "Round_survival",
+            "value": "ラウンドサバイバル"
+        },
+        {
+            "key": "continue_button",
+            "value": "続ける"
+        },
+        {
+            "key": "select_level",
+            "value": "レベルを選択"
+        },
+        {
+            "key": "upgrade_click",
+            "value": "アップグレード"
+        },
+        {
+            "key": "sell_click",
+            "value": "売る"
+        }
+    ]
+}
